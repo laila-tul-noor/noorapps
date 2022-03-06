@@ -1,0 +1,122 @@
+.main{
+  font-family: "BigCalson" ;
+  text-align: center;
+  color: rgb(0, 68, 255);
+  text-shadow: 2px 2px 2px rgb(0, 162, 255);
+  margin-top: 30px;
+  display: inline-block;
+  
+}
+.main1{
+  text-align: center;
+}
+img{
+  margin-left: 10px;
+  margin-top: 60px;
+  border-radius: 20px;
+}
+.main2{
+  margin-left: 250px;
+}
+.o{
+  font-size: 70px;
+  display: inline-block;
+  margin-left: 50px;
+}
+
+.s{
+  font-size: 30px ;
+  display: inline-block;
+ 
+
+}
+.hour{
+  font-size: 70px;
+  display: inline-block;
+}
+.h{
+  font-size: 30px;
+  display: inline-block;
+}
+.min{
+  font-size: 70px ;
+  display: inline-block;
+  margin-left: 50px ;
+}
+.m{
+  font-size: 30px;
+  display: inline-block;
+}
+.msec{
+  margin-left: 20px;
+  font-size: 40px;
+  /* margin-left: 50px ; */
+
+}
+.start{
+  color: white;
+  background-color:rgb(43, 85, 201) ;
+  border-color: rgb(43, 85, 201);
+  cursor: pointer;
+  height: 40px;
+  width: 90px;
+  margin-top: 10px;
+  margin-left: 200px;
+  box-shadow: 2px 2px 2px  rgb(0, 162, 255) ;
+  font-weight: bold;
+}
+.start:hover{
+  background-color:rgb(13, 67, 218) ;
+  
+}
+.reset:active{
+  background-color:rgb(199, 214, 226) ;
+  border-color: rgb(199, 214, 226);
+  
+}
+.reset:hover{
+  background-color:rgba(199, 214, 226, 0.493) ;
+  border-color: rgba(199, 214, 226, 0.493);
+  
+}
+.stop:hover{
+  background-color:rgb(13, 67, 218) ;
+  
+}
+.empty{
+  height: 110px;
+}
+
+.empty1{
+  height: 70px;
+}
+.empty2{
+  height: 10px;
+}
+.reset{
+  color:rgb(43, 85, 201) ;
+  cursor: pointer;
+  height: 40px;
+  width: 90px;
+  margin-top: 10px;
+  margin-left: 30px;
+background-color: white;
+border-color: white;
+font-size: 15px;
+font-weight: bold;
+}
+.stop{
+  color: white;
+  background-color:rgb(43, 85, 201) ;
+  border-color: rgb(43, 85, 201);
+  cursor: pointer;
+  height: 40px;
+  width: 90px;
+  margin-top: 10px;
+  margin-left: 30px;
+  box-shadow: 2px 2px 2px rgb(0, 162, 255) ;
+  font-weight: bold;
+}
+#hour{
+  display: inline-block;
+}
